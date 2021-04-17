@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.store {
+    text-align: center;
+}
+
+p {
+    line-height: 2;
+}
+.home-nav {
+    margin-right: 2rem;
+    text-decoration: none;
+}
+
+.about-nav {
+    margin-right: 2rem;
+    text-decoration: none;
+}
+
+.contact-nav {
+    text-decoration: none;
+}
+
+#list {
+    list-style-position: inside;
+}
+
+.img-class {
+    width : 16rem;
+    height: 16rem;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 2rem 4rem;
+}
+
+.img-text {
+    width : 16rem;
+    height: 4rem;
+    display: inline-block;
+    margin: 2rem 4rem 0 4rem;
+    font-weight: 700;
+}
+
+footer {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    line-height: 2;
+}
+
+.contact-links {
+    margin: 0.5rem 2rem;
+    text-decoration: none;
+}
